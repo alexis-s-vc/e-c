@@ -53,9 +53,7 @@ const register = () => {
 
   // Agrega el usuario al arreglo global
   users.push(user);
-  const a = users[0];
 
-  alert(JSON.stringify(a,null,2));
   
 
 };
